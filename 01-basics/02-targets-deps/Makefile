@@ -226,3 +226,11 @@ re: fclean all
     
  
 
+ #Reminder : 
+        # Don't worry if you don't understand everything yet
+        # I'm here to guide you step by step until you become an expert
+        
+        # Use these resources if you get stuck:
+            #    - Ask AI for help
+            #    - https://makefiletutorial.com/#top
+            #    - https://www.gnu.org/software/make/manual/make.html#Simple-Makefile

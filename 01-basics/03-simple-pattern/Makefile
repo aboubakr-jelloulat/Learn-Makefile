@@ -180,3 +180,5 @@ test4 :
             #    - Ask AI for help
             #    - https://makefiletutorial.com/#top
             #    - https://www.gnu.org/software/make/manual/make.html#Simple-Makefile
+            #    - https://stackoverflow.com/questions/4879592/whats-the-difference-between-and-in-makefile
+            #    - https://unix.stackexchange.com/questions/116547/what-do-and-in-a-makefile-mean

@@ -10,7 +10,7 @@ CFLAGS  := -Wall -Wextra -Werror -std=c++98
 SRCDIR := .
 
 # The folder where we want to put the compiled object files (.o).
-OBJDIR := build
+OBJDIR := obj
 
 # SRCS will contain all the .cpp files inside SRCDIR.
 # wildcard is a function that finds all files matching a pattern.
